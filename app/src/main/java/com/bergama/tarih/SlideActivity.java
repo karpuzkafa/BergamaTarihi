@@ -21,23 +21,6 @@ public class SlideActivity extends AppCompatActivity {
         viewPager = findViewById(R.id.view_pager);
         loadcards();
 
-        viewPager.addOnPageChangeListener(new ViewPager.OnPageChangeListener() {
-            @Override
-            public void onPageScrolled(int position, float positionOffset, int positionOffsetPixels) {
-                // ai seslendirme burda ayarlanacak
-            }
-
-            @Override
-            public void onPageSelected(int position) {
-
-            }
-
-            @Override
-            public void onPageScrollStateChanged(int state) {
-
-            }
-        });
-
     }
     private void loadcards() {
         modelArrayList = new ArrayList<PageModel>();

@@ -47,10 +47,6 @@ public class Adapter extends PagerAdapter {
         baslik.setText(model.getTitle());
         aciklama.setText(model.getDescription());
 
-        view.setOnClickListener(v -> {
-            Toast.makeText(context, "Tıklandı", Toast.LENGTH_SHORT).show();
-        });
-
         container.addView(view);
         return view;
     }
