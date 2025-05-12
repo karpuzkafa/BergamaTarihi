@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+<!--    <item-->
+<!--        android:id="@+id/nav_download_all"-->
+<!--        android:icon="@drawable/download_all"-->
+<!--        android:title="@string/download_all" />-->
+
+    <item
+        android:id="@+id/nav_github"
+        android:icon="@drawable/github"
+        android:title="@string/github" />
+    <group>
+        <item
+            android:id="@+id/menu_genel"
+            android:title="@string/genel"/>
+        <item
+            android:id="@+id/menu_akropol"
+            android:title="@string/akropol"/>
+        <item
+            android:id="@+id/menu_asklepion"
+            android:title="@string/asklepion"/>
+        <item
+            android:id="@+id/menu_allianoi"
+            android:title="@string/allianoi"/>
+        <item
+            android:id="@+id/menu_diger"
+            android:title="@string/diger"/>
+        <item
+            android:id="@+id/menu_dunya_miras"
+            android:title="@string/dunya_miras"/>
+        <item
+            android:id="@+id/menu_tarih"
+            android:title="@string/tarih"/>
+
+    </group>
+
+</menu>
