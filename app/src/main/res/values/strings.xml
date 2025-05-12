@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Bergama Tarihi</string>
+    <string name="open">Aç</string>
+    <string name="close">Kapat</string>
+    <string name="download_all">Tüm slaytları indir</string>
+    <string name="github">Kaynak Kodu</string>
+    <string name="download_success">İndirme Başarılı</string>
+    <string name="download_failed">İndirme Başarısız</string>
+    <string name="new_text">Yeni Açıklama</string>
+    <string name="genel">Genel Bilgi</string>
+    <string name="akropol">Akropol</string>
+    <string name="asklepion">Asklepion</string>
+    <string name="allianoi">Allianoi</string>
+    <string name="diger">Diğer Tarihi Yerler</string>
+    <string name="dunya_miras">Dünya Mırası</string>
+    <string name="tarih">Pergamon Tarihi</string>
+    <string name="main_title">Bergama Tarihi</string>
+    <string name="author">Githubda gör</string>
+    <string name="main_description">Bu uygulama eğitim amaçlı yapılmıştır</string>
+</resources>
